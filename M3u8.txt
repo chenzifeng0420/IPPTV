@@ -94,33 +94,6 @@ webview://https://tv.cctv.com/live/cctveurope/index.shtml
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV4美洲.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际 (美)
 webview://https://tv.cctv.com/live/cctvamerica/
 
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN.png" group-title="央视;央视频",CGTN英语
-webview://https://yangshipin.cn/tv/home?pid=600014550
-
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN纪录.png" group-title="央视;央视频",CGTN记录
-webview://https://yangshipin.cn/tv/home?pid=600084781
-
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN俄语.png" group-title="央视;央视频",CGTN俄语
-webview://https://yangshipin.cn/tv/home?pid=600084758
-
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN法语.png" group-title="央视;央视频",CGTN法语
-webview://https://yangshipin.cn/tv/home?pid=600084704
-
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN西语.png" group-title="央视;央视频",CGTN西语
-webview://https://yangshipin.cn/tv/home?pid=600084744
-
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN阿语.png" group-title="央视;央视频",CGTN阿语
-webview://https://yangshipin.cn/tv/home?pid=600084782
-
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/风云剧场.png" group-title="央视;央视频",CCTV 风云剧场
-webview://https://yangshipin.cn/tv/home?pid=600099658
-
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/第一剧场.png" group-title="央视;央视频",CCTV 第一剧场
-webview://https://yangshipin.cn/tv/home?pid=600099655
-
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/怀旧剧场.png" group-title="央视;央视频",CCTV 怀旧剧场
-webview://https://yangshipin.cn/tv/home?pid=600099620
-
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/北京卫视.png" group-title="卫视;央视频",北京卫视
 webview://https://yangshipin.cn/tv/home?pid=600002309
 
