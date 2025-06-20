@@ -1,4 +1,4 @@
-央视频道,#genre#
+📺央视频道,#genre#
 CCTV-1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV-1,http://124.220.159.96:35455/mgtv/608807420.m3u8
 CCTV-1,http://1.wcnm.qzz.io:35455/mgtv/608807420.m3u8
@@ -38,7 +38,7 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 CCTV-17,http://1.wcnm.qzz.io:35455/mgtv/673168256.m3u8
 CCTV-17,http://124.220.159.96:35455/mgtv/673168256.m3u8
 
-卫视频道,#genre#
+📺卫视频道,#genre#
 安徽卫视,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
 北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
