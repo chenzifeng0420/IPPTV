@@ -186,5 +186,3 @@ webview://https://yangshipin.cn/tv/home?pid=600190406
 
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/西藏卫视.png" group-title="央视频",西藏卫视
 webview://https://yangshipin.cn/tv/home?pid=600190403
-
-
