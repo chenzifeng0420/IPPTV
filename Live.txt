@@ -4,7 +4,6 @@ CCTV-2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 CCTV-3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
 CCTV-4,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
 CCTV-5,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
-CCTV-5,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
 CCTV-6,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
 CCTV-7,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
 CCTV-8,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
