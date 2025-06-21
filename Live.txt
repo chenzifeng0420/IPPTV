@@ -157,7 +157,7 @@ CCTV17农业农村,http://124.220.159.96:35455/mgtv/673168256.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 
-📺电信,#genre#
+📺电信央卫,#genre#
 CCTV-1高清,http://42.63.195.242:8089/hls/1/index.m3u8
 CCTV-1高清,http://171.127.55.136:888/tsfile/live/0001_1.m3u8
 CCTV-2高清,http://42.63.195.242:8089/hls/2/index.m3u8
