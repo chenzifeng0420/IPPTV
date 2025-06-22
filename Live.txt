@@ -57,13 +57,7 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
-康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
-康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
-新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
-新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
-新疆卫视,http://j.x.bkpcp.top/jx/XJWS
 亮剑,http://cfss.cc/cdn/hy/30080238.m3u8
 
 
@@ -151,7 +145,6 @@ CCTV-15,http://106.46.112.123:8888/hls/15/index.m3u8
 
 📺港澳台,#genre#
 寰宇新闻,https://ali.hlspull.yximgs.com/live/167_hyxw.flv
-寰宇新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
 中天新闻,https://ali.hlspull.yximgs.com/live/167_ztxw.flv
 中天新闻,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
