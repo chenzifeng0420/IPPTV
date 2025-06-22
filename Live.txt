@@ -55,11 +55,8 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 延边卫视,http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
 浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
 安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
-安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
-安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
-兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -67,11 +64,6 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
 新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
 新疆卫视,http://j.x.bkpcp.top/jx/XJWS
-新疆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-新疆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
-新疆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226923/1.m3u8
-新疆卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887448.m3u8
-新疆卫视,http://goo.bkpcp.top/mg/xjws
 亮剑,http://cfss.cc/cdn/hy/30080238.m3u8
 
 
@@ -175,7 +167,6 @@ CCTV-15,http://106.46.112.123:8888/hls/15/index.m3u8
 无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
 无线新闻,https://ali.hlspull.yximgs.com/live/167_wxxw.flv
 无线新闻,https://live.tvfix.org/live/inews/index.m3u8
-TVBS,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS,http://198.16.100.186:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 凤凰资讯,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
