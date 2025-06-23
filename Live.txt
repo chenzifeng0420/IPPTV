@@ -152,7 +152,6 @@ CCTV-15,http://106.46.112.123:8888/hls/15/index.m3u8
 无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8 
 无线新闻,https://ali.hlspull.yximgs.com/live/167_wxxw.flv
-无线新闻,https://live.tvfix.org/live/inews/index.m3u8
 TVBS新闻,https://hls-gateway.vpstv.net/streams/708927.m3u8 
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
