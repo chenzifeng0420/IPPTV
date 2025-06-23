@@ -122,37 +122,6 @@ CCTV-17农业农村,https://iptv.mydiver.eu.org/live/encrypted/NDI1MDFmZTRhOTc4M
 海峡卫视,https://iptv.mydiver.eu.org/live/encrypted/NjcwN2JjZmZjMmJlYThmZDI4YjVhNTJmZjQ4MjgxZmE6ZWU5ZjBmZGZhNmIzYTBkZjYzOTEyN2MxMTZiNzlhZmY4MzBkNjY2ZThkN2M4OTUxM2M1MzM3OTAwYTdmNmNmMDQ5ZmQyZGI4MTk4MDQwNjk2OGIzMGFiM2Y1ZGMwYWM4ODU3ZmM0YmE5NzBhMjAxMzliYjgxOTE2ZjViZDNhNGE4OWE4ZTk2MGZiODUxNDYwNjNlOGQ1MDQzZDZhOGNmZGM0MmUzYTI3MTQ2ZTk1MDhlYTViMGEyMWYyNDRmNjczMjVkYjQyZWM4MjdkOTZhOTQwMzUyMmZhMmJhMWZjNWE5N2RiZTJiMzRhYmUzZGM1ZDRiZmNiNzcxOTk5NTRmY2UyNTEyZmY5NzNlZGYzNDJjZTYyY2RjZjdkOWY1MTZkZThhYjFlMDNkMGRmODRkNDU1MTNkYjM4NjkzNTcxM2E4MmU5MGNkNGY5ZDk0NDYxNTMyMmQ1MDZjNGNkMDc1ZDYzYjBjMTdlZThmZTM3MGI5ZjhlOTg0ZGI1YjFjNzBmZmQ4MjU4NWVjMzRiNDMzMDU5MDBkMjNlOTBjODZhNGQxODgzMzVmZmYxMDQyYmUxNTBhYTJkODI5ZTE3NmE2ZDI4MzVjNGNkNzA2ZGQ1YWQ4N2I1MTU3MzFlMjA4ZGFmMmU0NTgxNWEyMzIyOTVlYWVhM2Q1OTEyMTA5N2I0Y2YyZWNmYTQzZjY4MTM5ZmNkYWNlZWExMjlmY2Y5YzI5Nw?username=tg_l3b6o6h7
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 📺电信央视,#genre#
 CCTV-1,http://106.46.112.123:8888/hls/1/index.m3u8
 CCTV-1,http://114.66.63.135:23791/itv/6000000001000029752.m3u8?cdn=wasusyt
@@ -173,7 +142,7 @@ CCTV-14,http://106.46.112.123:8888/hls/14/index.m3u8
 CCTV-15,http://106.46.112.123:8888/hls/15/index.m3u8
 
 📺港澳台,#genre#
-寰宇新闻,https://ali.hlspull.yximgs.com/live/167_hyxw.flv
+寰宇新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
 中天新闻,https://ali.hlspull.yximgs.com/live/167_ztxw.flv
 中天新闻,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
