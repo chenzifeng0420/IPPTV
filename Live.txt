@@ -143,7 +143,7 @@ CCTV-15,http://106.46.112.123:8888/hls/15/index.m3u8
 
 📺港澳台,#genre#
 寰宇新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
-中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 中天新闻,https://k44991.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
