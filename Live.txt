@@ -60,7 +60,7 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 亮剑,http://cfss.cc/cdn/hy/30080238.m3u8
 
-
+📺咪咕,#genre#
 #EXTINF:-1 tvg-id="2240" tvg-name="CCTV1综合" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="咪咕视频" tvg-chno="2240" tvg-shift="0",CCTV1综合
 https://iptv.mydiver.eu.org/live/encrypted/ODlhZGZjZjVlODIyOGE1MTMwYzA1MmU0OTE5MjgzYjU6ODY0NjAwNjczMDc5NDkxNDE1NTUzYjlmYTg1YTQxMDA2YjlkODY3MGM1MTZiODAwN2ZlOTVjYTAyMjM2NDZlZTgxYTljMDIzZDlkOTkxYmM2NmRiYjc3OGViMGNkZmUyMjQ5OWVhYjY0ZTdhMjFmYTE3YmRlZDBlMGRjNTlkOGE3YjQ0ZGVjOTVlNmNhZjZlOWViN2JhNGQ5NDZhOTkwYzAxODNlN2FhMWFiYmE3OTU4MTE2MzE1NzVlMzIwNWI0YTgyYzZhOTE4NjA0ZTM1YzdlZDJlZjY4NWM1MDgxODQzMjc1ZjIzZjQ4Zjc4ZmUxYzJiM2QyODQzYmEzMDgwMGY5YjNjMDc1MDJiNDA2MGE1MGU2YjgwNGNiNGViNTEyNzgwODk2NjNlMWVmNzFmN2UzZmM5ZjEwZGM5YWYwMDM2NzJkNzFhMWY4NjRjY2YyM2IwMWFiNTJjY2IxY2QzNTE5OTc3MzFlYTRhZGI0NWY4M2ZjMjNiYTdmOTViYzExN2IxY2ViMTYxMGRlZmFhODQ0YTFkMzI4OWUxODQ0MjQ0N2QzNjgwMjhjNDkwYjlhYjdjYzMyYjNjYjcyOGU4YTY3ZmMxOWYzOGRmOGU3OTFkZjYxOTNkMGE5OTc5ZDk3MDNmMTI4ZGU2MWJiZmM4MDllNTcyMjA5YzBlODgwNGVjMWNhNGNkYTEzM2RmOWVkNWUzMGVkZWY4NjAwNjE1Zg?username=tg_l3b6o6h7
 #EXTINF:-1 tvg-id="2241" tvg-name="CCTV2财经" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="咪咕视频" tvg-chno="2241" tvg-shift="0",CCTV2财经
