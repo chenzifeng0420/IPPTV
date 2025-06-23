@@ -152,6 +152,8 @@ CCTV-15,http://106.46.112.123:8888/hls/15/index.m3u8
 中视新闻,http://198.16.100.186:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中视新闻,http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 中视新闻,http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+翡翠台,https://iptv.mydiver.eu.org/live/encrypted/ZTA1YWVmZjJmZTA1N2Q0MzAzYjIzZWY3ZTMyY2E1M2Y6NzgzMjIxNmVlZWYwNWRjOWY1MjA0OWQ4ODkxYzBlNDMzZGI3MzNlMzQyNGJjZjI4MWNkYjFiN2MyNWJkY2ExN2E0ODdiYWIzY2Q0OTJkYTI5Zjk1OGY4Yjc5NWI0M2I1YTk2MmU3NDFjZWM4YmZmYjI3ZjNhZmI5ZjdmOTUxYmJhMzNmODBlNTkwMmMyYmYxNDgyZjM3N2Y3MTdmODE1N2E0ZGZjNzgzNzk3ZjcyYmU5NDlhMWQzZDI5ZDVhNjI2YjFhNjhmZmRiMTM2MjU3YjBjMDQyZmQ2OTkwYWViZmVhZjUzOWM5ZmFkZDk2OTY3OGVhMjg3MjYxOGU4ZGQ1N2I5YWMwMGY1MDJjMmY1Mzg2Mjc4YWJiYTUxYmY4Mjk3ODhjZDZlYzQ2NmFjNWQ5ZjY5ZTE5ZTIwMTViMDIzMjBjY2NlOTM3Njg0NGRlMWYxYTJhOTdlYzM0OTY5MGEzNjlhZTA4ZmVkZDg3ODYxZjRhNTNjMGY2NmJkMDA0MmFl?username=tg_l3b6o6h7
+
 翡翠台,https://ali.hlspull.yximgs.com/live/167_jade.flv
 翡翠台,http://ali.hlspull.yximgs.com/live/awei_jade.flv
 无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
