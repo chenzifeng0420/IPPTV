@@ -151,7 +151,8 @@ CCTV-15,http://106.46.112.123:8888/hls/15/index.m3u8
 无线新闻,https://live.tvfix.org/live/inews/index.m3u8
 TVBS新闻,https://hls-gateway.vpstv.net/streams/708927.m3u8 
 tvbs,https://hls-gateway.vpstv.net/streams/708925.m3u8
+凤凰资讯,https://ali.hlspull.yximgs.com/live/167_fhzx.flv 
 凤凰资讯,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://ali.hlspull.yximgs.com/live/awei_fhzx.flv
-凤凰资讯,https://ali.hlspull.yximgs.com/live/167_fhzx.flv 
+
 
