@@ -142,7 +142,7 @@ CCTV-14,http://106.46.112.123:8888/hls/14/index.m3u8
 CCTV-15,http://106.46.112.123:8888/hls/15/index.m3u8
 
 📺港澳台,#genre#
-寰宇新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
+寰宇新闻,https://iptv.mydiver.eu.org/live/encrypted/MjE3MjkyZjJlMThhNDc3MjQ0ZDUzZGI0NThiZDQ0OTc6MzVmM2E5Y2IxZjZiNWU3YjlhMTcwZWMwNGFhNzY0ZTI5MmJjODU1Mjk5YzEzMzAwZTQwMWIxZjdjZmJhNWFmZGQ1MDBiOWZiNDkyZTM1Y2ZlNjQxYmViN2E1ZDZkMGViZTdmMDY1Y2QyMjYxNzJmMGZjN2Q2OWE0MWQ3MjdmY2RjYjliY2RmN2JjZTBjYWQzOGM1ZTdmNDQxODQyMjE1ZGZmZWM0NDBkMWFiOWZiNTk1NzBkZGVmNjkyZWYxMjk0NzQxMGQzNmI0MjE3M2I0ODkyNTVmOWU0NTYyZjI0NjQwNGYwMTU5ZmY4YTlhZDMxMjI2N2IxMjY5YzJiMjMyNzM3ZTQyMTViN2VhY2ZhYWIxMTM2M2EyNDlhNzVmYTkxMDllNGM5ZTY1NjJlZmExNDI1YzMyZjJlYmYwZGU1NDQwOTcwZmRmYmQwYTNkY2NmMjc3Mzk1YWVhYzI3ZGNjZGRiZDQwYzJkOGNjOTMzYjg2MjEwY2M5MjdiYjJhYTY0?username=tg_l3b6o6h7
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 中天新闻,https://k44991.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
