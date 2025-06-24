@@ -17,7 +17,6 @@ CCTV-14,http://106.46.112.123:8888/hls/14/index.m3u8
 CCTV-15,http://106.46.112.123:8888/hls/15/index.m3u8
 
 📺卫视频道,#genre#
-
 北京卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.100:11111 
 东方卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.48:11111 
 浙江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.52:11111 
@@ -46,7 +45,6 @@ CCTV-15,http://106.46.112.123:8888/hls/15/index.m3u8
 甘肃卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.10:11111 
 吉林卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.60:11111 
 亮剑,http://cfss.cc/cdn/hy/30080238.m3u8
-
 
 📺IPTV,#genre#
 CCTV-1综合,https://hls-gateway.vpstv.net/streams/476879.m3u8 
