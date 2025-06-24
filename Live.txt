@@ -66,7 +66,7 @@ CCTV-17农业农村,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 吉林卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.60:11111 
 亮剑,http://cfss.cc/cdn/hy/30080238.m3u8
 
-📺IPTV,#genre#
+📺IPTV央卫,#genre#
 CCTV-1综合,https://hls-gateway.vpstv.net/streams/476879.m3u8 
 CCTV-2财经,https://hls-gateway.vpstv.net/streams/476881.m3u8 
 CCTV-3综艺,https://hls-gateway.vpstv.net/streams/476883.m3u8 
