@@ -16,7 +16,7 @@ CCTV-13,http://106.46.112.123:8888/hls/13/index.m3u8
 CCTV-14,http://106.46.112.123:8888/hls/14/index.m3u8
 CCTV-15,http://106.46.112.123:8888/hls/15/index.m3u8
 
-📺央视频道,#genre#
+📺全网通央视,#genre#
 CCTV-1综合,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV-2财经,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 CCTV-3综艺,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
