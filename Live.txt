@@ -209,6 +209,8 @@ TVBShttps://hls-gateway.vpstv.net/streams/708925.m3u8
 TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 凤凰资讯HD,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 凤凰资讯HD,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
+香港卫视,https://hls-gateway.vpstv.net/streams/708918.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
