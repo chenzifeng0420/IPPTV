@@ -198,8 +198,8 @@ CCTV-17农业农村,http://61.177.81.198:35455/mgtv/673168256.m3u8
 中天新闻,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
 中天新闻,https://hls-gateway.vpstv.net/streams/477695.m3u8 
 东森新闻HD,https://hls-gateway.vpstv.net/streams/476998.m3u8
-民视新闻HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻HD,https://hls-gateway.vpstv.net/streams/479210.m3u8 
+民视新闻HDttps://hls-gateway.vpstv.net/streams/476982.m3u8 
 中视新闻HD,http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 中视新闻HD,https://hls-gateway.vpstv.net/streams/476269.m3u8 
 华视新闻,https://hls-gateway.vpstv.net/streams/476266.m3u8
