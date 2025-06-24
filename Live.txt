@@ -1,21 +1,23 @@
 📺央视频道,#genre#
-CCTV-1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
-CCTV-2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
-CCTV-3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
-CCTV-4,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
-CCTV-5,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
-CCTV-6,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
-CCTV-7,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
-CCTV-8,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
-CCTV-9,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
-CCTV-10,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
-CCTV-11,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
-CCTV-12,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
-CCTV-13,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
-CCTV-14,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
-CCTV-15,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
-CCTV-16,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
-CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
+CCTV-1,http://106.46.112.123:8888/hls/1/index.m3u8
+CCTV-1,http://114.66.63.135:23791/itv/6000000001000029752.m3u8?cdn=wasusyt
+CCTV-2,http://106.46.112.123:8888/hls/2/index.m3u8
+CCTV-2,http://114.66.63.135:23791/itv/6000000001000014161.m3u8?cdn=wasusyt
+CCTV-3,http://106.46.112.123:8888/hls/3/index.m3u8
+CCTV-4,http://106.46.112.123:8888/hls/4/index.m3u8
+CCTV-5,http://106.46.112.123:8888/hls/5/index.m3u8
+CCTV-5+,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
+CCTV-6,http://106.46.112.123:8888/hls/6/index.m3u8
+CCTV-7,http://106.46.112.123:8888/hls/7/index.m3u8
+CCTV-8,http://106.46.112.123:8888/hls/8/index.m3u8
+CCTV-9,http://106.46.112.123:8888/hls/9/index.m3u8
+CCTV-10,http://106.46.112.123:8888/hls/10/index.m3u8
+CCTV-11,http://106.46.112.123:8888/hls/11/index.m3u8
+CCTV-12,http://106.46.112.123:8888/hls/12/index.m3u8
+CCTV-13,http://106.46.112.123:8888/hls/13/index.m3u8
+CCTV-14,http://106.46.112.123:8888/hls/14/index.m3u8
+CCTV-15,http://106.46.112.123:8888/hls/15/index.m3u8
+
 
 
 📺卫视频道,#genre#
@@ -116,25 +118,6 @@ CCTV-17农业农村,http://14.103.160.213:8098/mgtv/673168256.m3u8
 新疆卫视,http://14.103.160.213:8098/nptv/xinjiang.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
-📺电信央视,#genre#
-CCTV-1,http://106.46.112.123:8888/hls/1/index.m3u8
-CCTV-1,http://114.66.63.135:23791/itv/6000000001000029752.m3u8?cdn=wasusyt
-CCTV-2,http://106.46.112.123:8888/hls/2/index.m3u8
-CCTV-2,http://114.66.63.135:23791/itv/6000000001000014161.m3u8?cdn=wasusyt
-CCTV-3,http://106.46.112.123:8888/hls/3/index.m3u8
-CCTV-4,http://106.46.112.123:8888/hls/4/index.m3u8
-CCTV-5,http://106.46.112.123:8888/hls/5/index.m3u8
-CCTV-5+,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
-CCTV-6,http://106.46.112.123:8888/hls/6/index.m3u8
-CCTV-7,http://106.46.112.123:8888/hls/7/index.m3u8
-CCTV-8,http://106.46.112.123:8888/hls/8/index.m3u8
-CCTV-9,http://106.46.112.123:8888/hls/9/index.m3u8
-CCTV-10,http://106.46.112.123:8888/hls/10/index.m3u8
-CCTV-11,http://106.46.112.123:8888/hls/11/index.m3u8
-CCTV-12,http://106.46.112.123:8888/hls/12/index.m3u8
-CCTV-13,http://106.46.112.123:8888/hls/13/index.m3u8
-CCTV-14,http://106.46.112.123:8888/hls/14/index.m3u8
-CCTV-15,http://106.46.112.123:8888/hls/15/index.m3u8
 
 📺港澳台,#genre#
 寰宇新闻,https://ali.hlspull.yximgs.com/live/167_hyxw.flv 
