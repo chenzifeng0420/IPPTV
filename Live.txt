@@ -173,7 +173,6 @@ CCTV-17农业农村,http://61.177.81.198:35455/mgtv/673168256.m3u8
 📺港澳台,#genre#
 寰宇新闻,http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
 中天新闻,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
-中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 凤凰中文HD,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 凤凰中文HD,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 民视新闻HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
