@@ -205,7 +205,7 @@ CCTV-17农业农村,http://61.177.81.198:35455/mgtv/673168256.m3u8
 华视新闻,https://hls-gateway.vpstv.net/streams/476266.m3u8
 无线新闻,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 TVBS新闻,https://hls-gateway.vpstv.net/streams/708927.m3u8 
-TVBS新闻,https://hls-gateway.vpstv.net/streams/708925.m3u8
+TVBShttps://hls-gateway.vpstv.net/streams/708925.m3u8
 TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 凤凰资讯HD,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 凤凰资讯HD,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
