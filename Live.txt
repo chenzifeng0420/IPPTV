@@ -202,7 +202,7 @@ CCTV-17农业农村,http://61.177.81.198:35455/mgtv/673168256.m3u8
 民视新闻HD,https://hls-gateway.vpstv.net/streams/479210.m3u8 
 中视新闻HD,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
 中视新闻HD,https://hls-gateway.vpstv.net/streams/476269.m3u8
-华视新闻,https://hls-gateway.vpstv.net/streams/476266.m3u8
+华视新闻HD,https://hls-gateway.vpstv.net/streams/476266.m3u8
 无线新闻,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 TVBS新闻,https://hls-gateway.vpstv.net/streams/708927.m3u8 
 TVBS,https://hls-gateway.vpstv.net/streams/708925.m3u8
