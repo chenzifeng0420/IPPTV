@@ -209,25 +209,25 @@ https://hls-gateway.vpstv.net/streams/708838.m3u8
 https://hls-gateway.vpstv.net/streams/708844.m3u8
 #EXTINF:-1 tvg-name="黑龙江视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江视.png" group-title="📺IPTV卫视",黑龙江视
 https://hls-gateway.vpstv.net/streams/708854.m3u8
-#EXTINF:-1 tvg-name="CCTV01" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺电信央视",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺电信央视",CCTV-1
 http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
-#EXTINF:-1 tvg-name="CCTV02" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺电信央视",CCTV-02
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺电信央视",CCTV-02
 http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
-#EXTINF:-1 tvg-name="CCTV03" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="📺电信央视",CCTV-3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="📺电信央视",CCTV-3
 http://qjrhc.jydjd.top:2911/udp/224.1.100.64:11111
-#EXTINF:-1 tvg-name="CCTV04" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="📺电信央视",CCTV-4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="📺电信央视",CCTV-4
 http://qjrhc.jydjd.top:2911/udp/224.1.100.104:11111
-#EXTINF:-1 tvg-name="CCTV05" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺电信央视",CCTV-5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺电信央视",CCTV-5
 http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="📺电信央视",CCTV-5+
 http://qjrhc.jydjd.top:2911/udp/224.1.100.25:11111
-#EXTINF:-1 tvg-name="CCTV06" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺电信央视",CCTV-6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺电信央视",CCTV-6
 http://qjrhc.jydjd.top:2911/udp/224.1.100.84:11111
-#EXTINF:-1 tvg-name="CCTV07" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="📺电信央视",CCTV-7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="📺电信央视",CCTV-7
 http://qjrhc.jydjd.top:2911/udp/224.1.100.27:11111
-#EXTINF:-1 tvg-name="CCTV08" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="📺电信央视",CCTV-8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="📺电信央视",CCTV-8
 http://qjrhc.jydjd.top:2911/udp/224.1.100.86:11111
-#EXTINF:-1 tvg-name="CCTV09" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="📺电信央视",CCTV-9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="📺电信央视",CCTV-9
 http://qjrhc.jydjd.top:2911/udp/224.1.100.29:11111
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="📺电信央视",CCTV-10
 http://qjrhc.jydjd.top:2911/udp/224.1.100.76:11111
