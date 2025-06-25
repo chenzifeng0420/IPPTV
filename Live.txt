@@ -491,6 +491,7 @@ http://81.70.10.196:35455/mgtv/644368714.m3u8
 http://81.70.10.196:35455/mgtv/644368373.m3u8
 #EXTINF:-1 tvg-name="新片放映厅" tvg-logo="https://live.fanmingming.cn/tv/新片放映厅.png" group-title="📺NPTV卫视",新片放映厅
 http://81.70.10.196:35455/mgtv/619495952.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
 http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
@@ -521,12 +522,11 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 #EXTINF:-1 tvg-name="凤凰中文HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文HD.png" group-title="📺港澳台",凤凰中文HD
 https://hls-gateway.vpstv.net/streams/476959.m3u8
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HD.png group-title="📺港澳台",凤凰资讯HD
+#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HD.png" group-title="📺港澳台",凤凰资讯HD
 http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HD.png group-title="📺港澳台",凤凰资讯HD
+#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HD.png" group-title="📺港澳台",凤凰资讯HD
 http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HD.png group-title="📺港澳台",凤凰资讯HD
+#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HD.png" group-title="📺港澳台",凤凰资讯HD
 https://hls-gateway.vpstv.net/streams/476958.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="📺港澳台",香港卫视
 https://hls-gateway.vpstv.net/streams/708918.m3u8
