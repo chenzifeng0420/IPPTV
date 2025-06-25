@@ -9,7 +9,7 @@ http://106.46.112.123:8888/hls/3/index.m3u8
 http://106.46.112.123:8888/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://106.46.112.123:8888/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺央视频道",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 http://106.46.112.123:8888/hls/6/index.m3u8
@@ -131,7 +131,7 @@ https://hls-gateway.vpstv.net/streams/476883.m3u8
 https://hls-gateway.vpstv.net/streams/476884.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺IPTV央视",CCTV-5体育
 https://hls-gateway.vpstv.net/streams/476885.m3u8
-#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+体育赛事.png" group-title="📺IPTV央视",CCTV5+体育赛事
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="📺IPTV央视",CCTV5+体育赛事
 https://hls-gateway.vpstv.net/streams/476888.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺IPTV央视",CCTV-6电影
 https://hls-gateway.vpstv.net/streams/476890.m3u8
@@ -219,7 +219,7 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.64:11111
 http://qjrhc.jydjd.top:2911/udp/224.1.100.104:11111
 #EXTINF:-1 tvg-name="CCTV05" tvg-logo="https://live.fanmingming.cn/tv/CCTV05.png" group-title="📺电信央视",CCTV-05
 http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺电信央视",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="📺电信央视",CCTV-5+
 http://qjrhc.jydjd.top:2911/udp/224.1.100.25:11111
 #EXTINF:-1 tvg-name="CCTV06" tvg-logo="https://live.fanmingming.cn/tv/CCTV06.png" group-title="📺电信央视",CCTV-06
 http://qjrhc.jydjd.top:2911/udp/224.1.100.84:11111
@@ -251,7 +251,7 @@ http://61.177.81.198:35455/mgtv/624878271.m3u8
 http://61.177.81.198:35455/mgtv/631780421.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺咪咕央视",CCTV-5体育
 http://61.177.81.198:35455/mgtv/641886683.m3u8
-#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+体育赛事.png" group-title="📺咪咕央视",CCTV5+体育赛事
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="📺咪咕央视",CCTV5+体育赛事
 http://61.177.81.198:35455/mgtv/641886773.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺咪咕央视",CCTV-6电影
 http://61.177.81.198:35455/mgtv/624878396.m3u8
@@ -359,7 +359,7 @@ http://81.70.10.196:35455/mgtv/624878271.m3u8
 http://81.70.10.196:35455/mgtv/631780421.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺NPTV央视",CCTV-5体育
 http://81.70.10.196:35455/mgtv/641886683.m3u8
-#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+体育赛事.png" group-title="📺NPTV央视",CCTV5+体育赛事
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="📺NPTV央视",CCTV5+体育赛事
 http://81.70.10.196:35455/mgtv/641886773.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺NPTV央视",CCTV-6电影
 http://81.70.10.196:35455/mgtv/624878396.m3u8
