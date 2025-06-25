@@ -525,7 +525,7 @@ https://hls-gateway.vpstv.net/streams/476959.m3u8
 http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 #EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HD.png" group-title="📺港澳台",凤凰资讯HD
 http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯HDhttps://hls-gateway.vpstv.net/streams/476958.m3u8" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HDhttps://hls-gateway.vpstv.net/streams/476958.m3u8.png" group-title="📺港澳台",凤凰资讯HDhttps://hls-gateway.vpstv.net/streams/476958.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯HD"https://hls-gateway.vpstv.net/streams/476958.m3u8" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HDhttps://hls-gateway.vpstv.net/streams/476958.m3u8.png" group-title="📺港澳台",凤凰资讯HDhttps://hls-gateway.vpstv.net/streams/476958.m3u8
 undefined
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="📺港澳台",香港卫视
 https://hls-gateway.vpstv.net/streams/708918.m3u8
