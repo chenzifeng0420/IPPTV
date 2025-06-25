@@ -500,13 +500,13 @@ https://hls-gateway.vpstv.net/streams/476270.m3u8
 http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.cn/tv/中天新闻.png" group-title="📺港澳台",中天新闻
 https://hls-gateway.vpstv.net/streams/477695.m3u8
-#EXTINF:-1 tvg-name="东森新闻HD" tvg-logo="https://live.fanmingming.cn/tv/东森新闻HD.png" group-title="📺港澳台",东森新闻HD
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.cn/tv/东森新闻HD.png" group-title="📺港澳台",东森新闻HD
 https://hls-gateway.vpstv.net/streams/476998.m3u8
-#EXTINF:-1 tvg-name="民视新闻HD" tvg-logo="https://live.fanmingming.cn/tv/民视新闻HD.png" group-title="📺港澳台",民视新闻HD
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻HD.png" group-title="📺港澳台",民视新闻HD
 https://hls-gateway.vpstv.net/streams/479210.m3u8
-#EXTINF:-1 tvg-name="中视新闻HD" tvg-logo="https://live.fanmingming.cn/tv/中视新闻HD.png" group-title="📺港澳台",中视新闻HD
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.cn/tv/中视新闻HD.png" group-title="📺港澳台",中视新闻HD
 https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-#EXTINF:-1 tvg-name="华视新闻HD" tvg-logo="https://live.fanmingming.cn/tv/华视新闻HD.png" group-title="📺港澳台",华视新闻HD
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.cn/tv/华视新闻HD.png" group-title="📺港澳台",华视新闻HD
 https://hls-gateway.vpstv.net/streams/476266.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://live.fanmingming.cn/tv/三立新闻.png" group-title="📺港澳台",三立新闻
 https://hls-gateway.vpstv.net/streams/492922.m3u8
@@ -518,15 +518,15 @@ https://hls-gateway.vpstv.net/streams/708927.m3u8
 https://hls-gateway.vpstv.net/streams/708925.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png" group-title="📺港澳台",TVBS
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文HD.png" group-title="📺港澳台",凤凰中文HD
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文HD.png" group-title="📺港澳台",凤凰中文HD
 http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
-#EXTINF:-1 tvg-name="凤凰中文HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文HD.png" group-title="📺港澳台",凤凰中文HD
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文HD.png" group-title="📺港澳台",凤凰中文HD
 https://hls-gateway.vpstv.net/streams/476959.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HD.png" group-title="📺港澳台",凤凰资讯HD
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HD.png" group-title="📺港澳台",凤凰资讯HD
 http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HD.png" group-title="📺港澳台",凤凰资讯HD
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HD.png" group-title="📺港澳台",凤凰资讯HD
 http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HD.png" group-title="📺港澳台",凤凰资讯HD
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯HD.png" group-title="📺港澳台",凤凰资讯HD
 https://hls-gateway.vpstv.net/streams/476958.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="📺港澳台",香港卫视
 https://hls-gateway.vpstv.net/streams/708918.m3u8
