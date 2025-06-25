@@ -219,7 +219,7 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.64:11111
 http://qjrhc.jydjd.top:2911/udp/224.1.100.104:11111
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺电信央视",CCTV-5
 http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="📺电信央视",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="📺电信央视",CCTV-5+
 http://qjrhc.jydjd.top:2911/udp/224.1.100.25:11111
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺电信央视",CCTV-6
 http://qjrhc.jydjd.top:2911/udp/224.1.100.84:11111
