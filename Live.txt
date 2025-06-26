@@ -487,7 +487,7 @@ https://hls-gateway.vpstv.net/streams/477695.m3u8
 https://hls-gateway.vpstv.net/streams/476998.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/EBCNews.png" group-title="📺港澳台",东森新闻
 https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" group-title=" group-title="📺港澳台",民视新闻
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" group-title=" 📺港澳台",民视新闻
 https://hls-gateway.vpstv.net/streams/479210.m3u8
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTV1.png" group-title="📺港澳台",中视新闻
 https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
