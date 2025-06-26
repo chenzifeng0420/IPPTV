@@ -211,7 +211,7 @@ https://hls-gateway.vpstv.net/streams/708844.m3u8
 https://hls-gateway.vpstv.net/streams/708854.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺电信央视",CCTV-1
 http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺电信央视",CCTV-02
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺电信央视",CCTV-2
 http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="📺电信央视",CCTV-3
 http://qjrhc.jydjd.top:2911/udp/224.1.100.64:11111
@@ -502,11 +502,11 @@ http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
 https://hls-gateway.vpstv.net/streams/477695.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.cn/tv/东森新闻.png" group-title="📺港澳台",东森新闻
 https://hls-gateway.vpstv.net/streams/476998.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻.png" group-title="📺港澳台",民视新闻
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视.png" group-title="📺港澳台",民视新闻
 https://hls-gateway.vpstv.net/streams/479210.m3u8
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.cn/tv/中视新闻.png" group-title="📺港澳台",中视新闻
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.cn/tv/中视.png" group-title="📺港澳台",中视新闻
 https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.cn/tv/华视新闻.png" group-title="📺港澳台",华视新闻
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.cn/tv/华视.png" group-title="📺港澳台",华视新闻
 https://hls-gateway.vpstv.net/streams/476266.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://live.fanmingming.cn/tv/三立新闻.png" group-title="📺港澳台",三立新闻
 https://hls-gateway.vpstv.net/streams/492922.m3u8
