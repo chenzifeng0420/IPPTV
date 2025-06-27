@@ -106,93 +106,95 @@ http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
 #EXTINF:-1 tvg-name="亮剑" tvg-logo="https://live.fanmingming.cn/tv/亮剑.png" group-title="📺全网通卫视",亮剑
 http://cfss.cc/cdn/hy/30080238.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺IPTV央视",CCTV-1
-https://hls-gateway.vpstv.net/streams/476879.m3u8
+http://k.061899.xyz/m.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺IPTV央视",CCTV-2
-https://hls-gateway.vpstv.net/streams/476881.m3u8
+http://k.061899.xyz/m.php?id=cctv2 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="📺IPTV央视",CCTV-3
-https://hls-gateway.vpstv.net/streams/476883.m3u8
+http://k.061899.xyz/m.php?id=cctv3 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="📺IPTV央视",CCTV-4
-https://hls-gateway.vpstv.net/streams/476884.m3u8
+http://k.061899.xyz/m.php?id=cctv4
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺IPTV央视",CCTV-5
-https://hls-gateway.vpstv.net/streams/476885.m3u8
+http://k.061899.xyz/m.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="📺IPTV央视",CCTV5+
-https://hls-gateway.vpstv.net/streams/476888.m3u8
+http://k.061899.xyz/m.php?id=cctv5p 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺IPTV央视",CCTV-6
-https://hls-gateway.vpstv.net/streams/476890.m3u8
+http://k.061899.xyz/m.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="📺IPTV央视",CCTV-7
-https://hls-gateway.vpstv.net/streams/476891.m3u8
+http://k.061899.xyz/m.php?id=cctv7
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="📺IPTV央视",CCTV-8
-https://hls-gateway.vpstv.net/streams/476892.m3u8
+http://k.061899.xyz/m.php?id=cctv8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="📺IPTV央视",CCTV-9
-https://hls-gateway.vpstv.net/streams/476893.m3u8
+http://k.061899.xyz/m.php?id=cctv9
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="📺IPTV央视",CCTV-10
-https://hls-gateway.vpstv.net/streams/476896.m3u8
+http://k.061899.xyz/m.php?id=cctv10
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="📺IPTV央视",CCTV-11
-https://hls-gateway.vpstv.net/streams/476897.m3u8
+http://k.061899.xyz/m.php?id=cctv11
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="📺IPTV央视",CCTV-12
-https://hls-gateway.vpstv.net/streams/476898.m3u8
+http://k.061899.xyz/m.php?id=cctv12
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="📺IPTV央视",CCTV-13
-https://hls-gateway.vpstv.net/streams/476899.m3u8
+http://k.061899.xyz/m.php?id=cctv13
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="📺IPTV央视",CCTV-14
-https://hls-gateway.vpstv.net/streams/476900.m3u8
+http://k.061899.xyz/m.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="📺IPTV央视",CCTV-15
-https://hls-gateway.vpstv.net/streams/476901.m3u8
+http://k.061899.xyz/m.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="📺IPTV央视",CCTV-16
-https://hls-gateway.vpstv.net/streams/709272.m3u8
+http://k.061899.xyz/m.php?id=cctv16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺IPTV央视",CCTV-17
-https://hls-gateway.vpstv.net/streams/708820.m3u8
+http://k.061899.xyz/m.php?id=cctv17
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="📺IPTV卫视",北京卫视
-https://hls-gateway.vpstv.net/streams/476912.m3u8
+http://k.061899.xyz/m.php?id=bjws 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="📺IPTV卫视",东方卫视
-https://hls-gateway.vpstv.net/streams/709068.m3u8
+http://k.061899.xyz/m.php?id=dfws
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="📺IPTV卫视",浙江卫视
-https://hls-gateway.vpstv.net/streams/476909.m3u8
+http://k.061899.xyz/m.php?id=zjws 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="📺IPTV卫视",江苏卫视
-https://hls-gateway.vpstv.net/streams/476906.m3u8
+http://k.061899.xyz/m.php?id=jsws
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="📺IPTV卫视",湖南卫视
-https://hls-gateway.vpstv.net/streams/476904.m3u8
+http://k.061899.xyz/m.php?id=hunws
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="📺IPTV卫视",广东卫视
-https://hls-gateway.vpstv.net/streams/476914.m3u8
+http://k.061899.xyz/m.php?id=gdws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="📺IPTV卫视",深圳卫视
-https://hls-gateway.vpstv.net/streams/476913.m3u8
+http://k.061899.xyz/m.php?id=szws
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="📺IPTV卫视",天津卫视
-https://hls-gateway.vpstv.net/streams/708872.m3u8
+http://k.061899.xyz/m.php?id=tjws
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="📺IPTV卫视",安徽卫视
-https://hls-gateway.vpstv.net/streams/708868.m3u8
+http://k.061899.xyz/m.php?id=ahws 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="📺IPTV卫视",山东卫视
-https://hls-gateway.vpstv.net/streams/708860.m3u8
+http://k.061899.xyz/m.php?id=sdws
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="📺IPTV卫视",辽宁卫视
-https://hls-gateway.vpstv.net/streams/708828.m3u8
+http://k.061899.xyz/m.php?id=lnws
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="📺IPTV卫视",河北卫视
-https://hls-gateway.vpstv.net/streams/476920.m3u8
+http://k.061899.xyz/m.php?id=hbws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="📺IPTV卫视",河南卫视
-https://hls-gateway.vpstv.net/streams/708871.m3u8
+http://k.061899.xyz/m.php?id=hnws
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="📺IPTV卫视",江西卫视
-https://hls-gateway.vpstv.net/streams/708831.m3u8
+http://k.061899.xyz/m.php?id=jxws
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="📺IPTV卫视",四川卫视
-https://hls-gateway.vpstv.net/streams/476917.m3u8
+http://k.061899.xyz/m.php?id=scws
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="📺IPTV卫视",重庆卫视
-https://hls-gateway.vpstv.net/streams/476918.m3u8
+http://k.061899.xyz/m.php?id=cqws
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="📺IPTV卫视",贵州卫视
-https://hls-gateway.vpstv.net/streams/708850.m3u8
+http://k.061899.xyz/m.php?id=gzws
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="📺IPTV卫视",湖北卫视
-https://hls-gateway.vpstv.net/streams/476198.m3u8
+http://k.061899.xyz/m.php?id=hubws
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="📺IPTV卫视",广西卫视
-https://hls-gateway.vpstv.net/streams/708864.m3u8
+http://k.061899.xyz/m.php?id=gxws
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="📺IPTV卫视",云南卫视
 https://hls-gateway.vpstv.net/streams/708863.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="📺IPTV卫视",东南卫视
-https://hls-gateway.vpstv.net/streams/708823.m3u8
+http://k.061899.xyz/m.php?id=dnws 
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="📺IPTV卫视",海南卫视
-https://hls-gateway.vpstv.net/streams/708822.m3u8
+http://k.061899.xyz/m.php?id=hinws
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="📺IPTV卫视",青海卫视
-https://hls-gateway.vpstv.net/streams/708825.m3u8
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="📺IPTV卫视",厦门卫视
-https://hls-gateway.vpstv.net/streams/708838.m3u8
+http://k.061899.xyz/m.php?id=qhws
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="📺IPTV卫视",吉林卫视
-https://hls-gateway.vpstv.net/streams/708844.m3u8
+http://k.061899.xyz/m.php?id=jlws
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="📺IPTV卫视",兵团卫视
+http://k.061899.xyz/m.php?id=btws
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="📺IPTV卫视",西藏卫视
+http://k.061899.xyz/m.php?id=xzws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="📺IPTV卫视",黑龙江卫视
-https://hls-gateway.vpstv.net/streams/708854.m3u8
+http://k.061899.xyz/m.php?id=hljws
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺电信央视",CCTV-1
 http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺电信央视",CCTV-2
