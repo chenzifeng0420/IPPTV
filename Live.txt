@@ -480,14 +480,10 @@ http://81.70.10.196:35455/mgtv/619495952.m3u8
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
 http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
-https://hls-gateway.vpstv.net/streams/476270.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="📺港澳台",中天新闻
 http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="📺港澳台",中天新闻
-https://hls-gateway.vpstv.net/streams/477695.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/EBCNews.png" group-title="📺港澳台",东森新闻
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8?proxy=true
+http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv152/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" group-title="📺港澳台",民视新闻
 http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.cn/tv/中视新闻.png" group-title="📺港澳台",中视新闻
@@ -502,8 +498,6 @@ http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png" group-title="📺港澳台",TVBS
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889913.flv
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png" group-title="📺港澳台",TVBS
-http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="📺港澳台",凤凰中文
 http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="📺港澳台",凤凰中文
