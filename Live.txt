@@ -143,6 +143,7 @@ http://110.177.144.22:9003/hls/17/index.m3u8
 http://110.177.144.22:9003/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="📺IPTV卫视",北京卫视
 http://k.061899.xyz/m.php?id=bjws
+http://61.134.204.177:9003/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="📺IPTV卫视",东方卫视
 http://k.061899.xyz/m.php?id=dfws 
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="📺IPTV卫视",浙江卫视
@@ -166,7 +167,7 @@ http://k.061899.xyz/m.php?id=ahws
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="📺IPTV卫视",山东卫视
 http://k.061899.xyz/m.php?id=sdws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="📺IPTV卫视",山西卫视
-http://110.177.144.22:9003/hls/19/index.m3u8
+http://61.134.204.177:9003/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="📺IPTV卫视",辽宁卫视
 http://110.177.144.22:9003/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="📺IPTV卫视",河北卫视
