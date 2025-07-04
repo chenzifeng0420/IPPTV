@@ -152,9 +152,9 @@ http://110.177.144.22:9003/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="📺IPTV卫视",甘肃卫视
 http://110.177.144.22:9003/hls/25/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="📺IPTV卫视",江苏卫视
-http://110.177.144.22:9003/hls/35/index.m3u8
+http://k.061899.xyz/m.php?id=jsws
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="📺IPTV卫视",湖南卫视
-http://110.177.144.22:9003/hls/33/index.m3u8
+http://k.061899.xyz/m.php?id=hunws
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="📺IPTV卫视",广东卫视
 http://k.061899.xyz/m.php?id=gdws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="📺IPTV卫视",深圳卫视
@@ -162,7 +162,7 @@ http://k.061899.xyz/m.php?id=szws
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="📺IPTV卫视",天津卫视
 http://k.061899.xyz/m.php?id=tjws
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="📺IPTV卫视",安徽卫视
-http://110.177.144.22:9003/hls/21/index.m3u8
+http://k.061899.xyz/m.php?id=ahws 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="📺IPTV卫视",山东卫视
 http://k.061899.xyz/m.php?id=sdws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="📺IPTV卫视",山西卫视
@@ -192,19 +192,19 @@ http://k.061899.xyz/m.php?id=dnws
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="📺IPTV卫视",海南卫视
 http://110.177.144.22:9003/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="📺IPTV卫视",青海卫视
-http://110.177.144.22:9003/hls/40/index.m3u8
+http://k.061899.xyz/m.php?id=qhws 
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="📺IPTV卫视",宁夏卫视
 http://110.177.144.22:9003/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="📺IPTV卫视",吉林卫视
-http://110.177.144.22:9003/hls/34/index.m3u8
+http://k.061899.xyz/m.php?id=jlws
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="📺IPTV卫视",兵团卫视
-http://116.22.253.61:5000/bptv/3221226541.m3u8
+http://k.061899.xyz/m.php?id=btws 
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="📺IPTV卫视",西藏卫视
 http://k.061899.xyz/m.php?id=xzws
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="📺IPTV卫视",内蒙古卫视
-http://110.177.144.22:9003/hls/38/index.m3u8
+,http://k.061899.xyz/m.php?id=nmgws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="📺IPTV卫视",黑龙江卫视
-http://110.177.144.22:9003/hls/31/index.m3u8
+http://k.061899.xyz/m.php?id=hljws 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺咪咕央视",CCTV-1
 http://61.177.81.198:35455/mgtv/608807420.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺咪咕央视",CCTV-2
