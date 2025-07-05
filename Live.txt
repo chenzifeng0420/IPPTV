@@ -33,6 +33,8 @@ http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
 http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺全网通央视",CCTV-17农业农村
 http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
+
+
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="📺全网通卫视",北京卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="📺全网通卫视",东方卫视
@@ -105,6 +107,8 @@ http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
 #EXTINF:-1 tvg-name="亮剑" tvg-logo="https://live.fanmingming.cn/tv/亮剑.png" group-title="📺全网通卫视",亮剑
 http://cfss.cc/cdn/hy/30080238.m3u8
+
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺IPTV央视",CCTV-1
 http://110.177.144.22:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺IPTV央视",CCTV-2
@@ -141,6 +145,8 @@ http://110.177.144.22:9003/hls/16/index.m3u8
 http://110.177.144.22:9003/hls/17/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺IPTV央视",CCTV-17
 http://110.177.144.22:9003/hls/18/index.m3u8
+
+
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="📺IPTV卫视",北京卫视
 http://61.134.248.65:9003/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="📺IPTV卫视",东方卫视
@@ -203,6 +209,8 @@ http://k.061899.xyz/m.php?id=xzws
 http://k.061899.xyz/m.php?id=nmgws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="📺IPTV卫视",黑龙江卫视
 http://61.134.204.177:9003/hls/31/index.m3u8
+
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺咪咕央视",CCTV-1
 http://123.149.238.70:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺咪咕央视",CCTV-2
@@ -239,6 +247,8 @@ http://183.135.120.18:12345/mgtv/673168223.m3u8
 http://61.177.81.198:35455/nptv/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺咪咕央视",CCTV-17
 http://183.135.120.18:12345/mgtv/673168256.m3u8
+
+
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="📺咪咕卫视",北京卫视
 http://61.177.81.198:35455/nptv/beijing.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="📺咪咕卫视",湖南卫视
@@ -309,8 +319,8 @@ http://61.177.81.198:35455/nptv/yunnan.m3u8
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="📺咪咕卫视",大湾区卫视
 http://14.103.160.213:8098/mgtv/608917627.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="📺咪咕卫视",怀旧剧场
-http://61.177.81.198:35455/nptv/hjjc.m3u8
+
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺NPTV央视",CCTV-1
 http://61.134.248.65:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺NPTV央视",CCTV-2
@@ -423,176 +433,98 @@ https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV1.png" group-title="📺央视频",CCTV-1 综合
 webview://https://yangshipin.cn/tv/home?pid=600001859
-
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV2.png" group-title="📺央视频",CCTV-2 财经
 webview://https://yangshipin.cn/tv/home?pid=600001800
-
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV4.png" group-title="📺央视频",CCTV-4 中文国际
 webview://https://yangshipin.cn/tv/home?pid=600001814
-
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV5.png" group-title="📺央视频",CCTV-5 体育
 webview://https://yangshipin.cn/tv/home?pid=600001818
-
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV5+.png" group-title="📺央视频",CCTV-5+ 体育赛事
 webview://https://yangshipin.cn/tv/home?pid=600001817
-
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV6.png" group-title="📺央视频",CCTV-6 电影
 webview://https://yangshipin.cn/tv/home?pid=600108442
-
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV7.png" group-title="📺央视频",CCTV-7 国防军事
 webview://https://yangshipin.cn/tv/home?pid=600004092
-
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV8.png" group-title="📺央视频",CCTV-8 电视剧
 webview://https://yangshipin.cn/tv/home?pid=600001803
-
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV9.png" group-title="📺央视频",CCTV-9 纪录
 webview://https://yangshipin.cn/tv/home?pid=600004078
-
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV10.png" group-title="📺央视频",CCTV-10 科教
 webview://https://yangshipin.cn/tv/home?pid=600001805
-
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV11.png" group-title="📺央视频",CCTV-11 戏曲
 webview://https://yangshipin.cn/tv/home?pid=600001806
-
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV12.png" group-title="📺央视频",CCTV-12 社会与法
 webview://https://yangshipin.cn/tv/home?pid=600001807
-
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV13.png" group-title="📺央视频",CCTV-13 新闻
 webview://https://yangshipin.cn/tv/home?pid=600001811
-
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV14.png" group-title="📺央视频",CCTV-14 少儿
 webview://https://yangshipin.cn/tv/home?pid=600001809
-
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV15.png" group-title="📺央视频",CCTV-15 音乐
 webview://https://yangshipin.cn/tv/home?pid=600001815
-
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV16.png" group-title="📺央视频",CCTV-16 奥林匹克
 webview://https://yangshipin.cn/tv/home?pid=600098637
-
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV17.png" group-title="📺央视频",CCTV-17 农业农村
 webview://https://yangshipin.cn/tv/home?pid=600001810
-
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/北京卫视.png" group-title="📺央视频",北京卫视
 webview://https://yangshipin.cn/tv/home?pid=600002309
-
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/江苏卫视.png" group-title="📺央视频",江苏卫视
 webview://https://yangshipin.cn/tv/home?pid=600002521
-
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/东方卫视.png" group-title="📺央视频",东方卫视
 webview://https://yangshipin.cn/tv/home?pid=600002483
-
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/浙江卫视.png" group-title="📺央视频",浙江卫视
 webview://https://yangshipin.cn/tv/home?pid=600002520
-
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/湖南卫视.png" group-title="📺央视频",湖南卫视
 webview://https://yangshipin.cn/tv/home?pid=600002475
-
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/湖北卫视.png" group-title="📺央视频",湖北卫视
 webview://https://yangshipin.cn/tv/home?pid=600002508
-
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广东卫视.png" group-title="📺央视频",广东卫视
 webview://https://yangshipin.cn/tv/home?pid=600002485
-
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广西卫视.png" group-title="📺央视频",广西卫视
 webview://https://yangshipin.cn/tv/home?pid=600002509
-
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/黑龙江卫视.png" group-title="📺央视频",黑龙江卫视
 webview://https://yangshipin.cn/tv/home?pid=600002498
-
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/海南卫视.png" group-title="📺央视频",海南卫视
 webview://https://yangshipin.cn/tv/home?pid=600002506
-
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/重庆卫视.png" group-title="📺央视频",重庆卫视
 webview://https://yangshipin.cn/tv/home?pid=600002531
-
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/深圳卫视.png" group-title="📺央视频",深圳卫视
 webview://https://yangshipin.cn/tv/home?pid=600002481
-
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/四川卫视.png" group-title="📺央视频",四川卫视
 webview://https://yangshipin.cn/tv/home?pid=600002516
-
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/河南卫视.png" group-title="📺央视频",河南卫视
 webview://https://yangshipin.cn/tv/home?pid=600002525
-
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/东南卫视.png" group-title="📺央视频",福建东南卫视
 webview://https://yangshipin.cn/tv/home?pid=600002484
-
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/贵州卫视.png" group-title="📺央视频",贵州卫视
 webview://https://yangshipin.cn/tv/home?pid=600002490
-
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/江西卫视.png" group-title="📺央视频",江西卫视
 webview://https://yangshipin.cn/tv/home?pid=600002503
-
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/辽宁卫视.png" group-title="📺央视频",辽宁卫视
 webview://https://yangshipin.cn/tv/home?pid=600002505
-
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/安徽卫视.png" group-title="📺央视频",安徽卫视
 webview://https://yangshipin.cn/tv/home?pid=600002532
-
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/河北卫视.png" group-title="📺央视频",河北卫视
 webview://https://yangshipin.cn/tv/home?pid=600002493
-
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/山东卫视.png" group-title="📺央视频",山东卫视
 webview://https://yangshipin.cn/tv/home?pid=600002513
-
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/天津卫视.png" group-title="📺央视频",天津卫视
 webview://https://yangshipin.cn/tv/home?pid=600152137
-
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/吉林卫视.png" group-title="📺央视频",吉林卫视
 webview://https://yangshipin.cn/tv/home?pid=600190405
-
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/陕西卫视.png" group-title="📺央视频",陕西卫视
 webview://https://yangshipin.cn/tv/home?pid=600190400
-
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/甘肃卫视.png" group-title="📺央视频",甘肃卫视
 webview://https://yangshipin.cn/tv/home?pid=600190408
-
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/宁夏卫视.png" group-title="📺央视频",宁夏卫视
 webview://https://yangshipin.cn/tv/home?pid=600190737
-
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/内蒙古卫视.png" group-title="📺央视频",内蒙古卫视
 webview://https://yangshipin.cn/tv/home?pid=600190401
-
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/云南卫视.png" group-title="📺央视频",云南卫视
 webview://https://yangshipin.cn/tv/home?pid=600190402
-
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/山西卫视.png" group-title="📺央视频",山西卫视
 webview://https://yangshipin.cn/tv/home?pid=600190407
-
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/青海卫视.png" group-title="📺央视频",青海卫视
 webview://https://yangshipin.cn/tv/home?pid=600190406
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
@@ -617,20 +549,8 @@ https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889913.flv
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="📺港澳台",凤凰中文
 http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="📺港澳台",凤凰中文
-https://hls-gateway.vpstv.net/streams/476959.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="📺港澳台",凤凰资讯
 http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="📺港澳台",凤凰资讯
-http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="📺港澳台",凤凰资讯
-https://hls-gateway.vpstv.net/streams/476958.m3u8
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="📺港澳台",凤凰香港
-http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="📺港澳台",香港卫视
-https://hls-gateway.vpstv.net/streams/708918.m3u8
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="📺港澳台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="📺港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="📺港澳台",翡翠台
